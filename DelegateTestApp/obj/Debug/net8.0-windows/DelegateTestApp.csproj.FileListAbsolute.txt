@@ -1,0 +1,16 @@
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\bin\Debug\net8.0-windows\DelegateTestApp.exe
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\bin\Debug\net8.0-windows\DelegateTestApp.deps.json
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\bin\Debug\net8.0-windows\DelegateTestApp.runtimeconfig.json
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\bin\Debug\net8.0-windows\DelegateTestApp.dll
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\bin\Debug\net8.0-windows\DelegateTestApp.pdb
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\obj\Debug\net8.0-windows\DelegateTestApp.Form1.resources
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\obj\Debug\net8.0-windows\DelegateTestApp.csproj.GenerateResource.cache
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\obj\Debug\net8.0-windows\DelegateTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\obj\Debug\net8.0-windows\DelegateTestApp.AssemblyInfoInputs.cache
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\obj\Debug\net8.0-windows\DelegateTestApp.AssemblyInfo.cs
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\obj\Debug\net8.0-windows\DelegateTestApp.csproj.CoreCompileInputs.cache
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\obj\Debug\net8.0-windows\DelegateTestApp.dll
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\obj\Debug\net8.0-windows\refint\DelegateTestApp.dll
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\obj\Debug\net8.0-windows\DelegateTestApp.pdb
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\obj\Debug\net8.0-windows\DelegateTestApp.genruntimeconfig.cache
+C:\Users\mucah\source\repos\DelegateTestApp\DelegateTestApp\obj\Debug\net8.0-windows\ref\DelegateTestApp.dll
